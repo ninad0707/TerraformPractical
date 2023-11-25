@@ -1,0 +1,7 @@
+Pre-requisite to create S3 static Website
+1.create an S3 bucket
+2.Configure Bucket for static website Hosting (Enable static website hosting parameter)
+3.Upload websites file to S3 bucket
+4.Enable Public access to S3 bucket
+5.Configure DNS (optional)
+5.Testing the website
