@@ -1,9 +1,0 @@
-Prerequisites:
-
-Create VPC,Subnet (Private and Public), Routable and IGW and launch server in Public subnet.
-
-1.Create VPC
-2.create Subnet in the VPC created
-3.Create Routable and assign created subnet
-4.Create Internet Gateway in created VPC and add entry in routes of Public subnet
-5.Once all configuration is done launch server in the public subnet as well host website while launching.  
